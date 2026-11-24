@@ -32,6 +32,17 @@
       "featured": false,
       "draft": false,
       "sample": true
+    },
+    {
+      "title": "Who is pramod as professionally?",
+      "platform": "X",
+      "category": "Life & Experiences",
+      "date": "2026-11-24",
+      "url": "https://resume.pramodtidke.in/",
+      "description": "I ran CI/CD pipelines at Capgemini, where I triaged build failures, debugged pods and wrote Python and Shell automation around Trivy scans and deployment checks.\n\nAfter two years of freelance web delivery, I returned to DevOps full time in 2026 and built two end-to-end projects: a GitOps deployment on Amazon EKS and a DevSecOps pipeline with mandatory security gates.\n\nI am looking for a DevOps, Cloud or SRE role where I can keep building reliable, automated delivery.",
+      "featured": false,
+      "draft": false,
+      "sample": false
     }
   ]
 }
