@@ -1,7 +1,7 @@
 # Sveltia CMS config. Replace REPLACE_WITH_REPO_NAME with your repository name.
 backend:
   name: github
-  repo: pramodtidke/REPLACE_WITH_REPO_NAME
+  repo: pramodtidke/pramod
   branch: main
 media_folder: assets/uploads
 public_folder: /assets/uploads
